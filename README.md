@@ -1,2 +1,4 @@
 # To-do
-to-do list
+- Make List of all things
+- Pick top 5
+- Remove rest
